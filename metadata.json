@@ -1,0 +1,9 @@
+{
+  "name": "TokStudio - Short Video Creator & Feed",
+  "description": "TikTok-style short video sharing app to record, edit, filter, and share vertical clips with sound and effects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
